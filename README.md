@@ -1,27 +1,23 @@
 # Ponderada SPA Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
+## Tecnologias Usadas
 
-## Development server
+Foi usado Angular para a criação do Formulário Dinâmico com SPA.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Em meus estágios de férias trabalhei bastante com Angular, porém nunca tinha usado com formulários, foi interessante implementar um formulário utilizando SPA.
 
-## Code scaffolding
+Nos autoestudos fui capaz de entender um pouco mais dos benefícios do uso do SPA e de suas restrições, além de aprender que Angular e React são ótimas tecnologias para implementá-lo.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Executando as etapas do código
 
-## Build
+Rodando o teste do SPA:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![image](https://github.com/FelipeSaadi/Ponderada-SPA-Angular/assets/54749257/7f527110-e9bc-4bcb-bd4b-2d03336ad09d)
 
-## Running unit tests
+Testando o formulário:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://github.com/FelipeSaadi/Ponderada-SPA-Angular/assets/54749257/b8f32fcb-9387-4738-b4d8-a4d52ca039b7)
 
-## Running end-to-end tests
+Testando o formulário com outros dados:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://github.com/FelipeSaadi/Ponderada-SPA-Angular/assets/54749257/637aa3b1-7caa-4db8-8830-9596dd1e307f)
